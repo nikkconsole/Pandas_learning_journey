@@ -1,0 +1,7 @@
+,Employee_ID,Employee_name,Department,Salary,Experience,Performance_score,Annual_salary,Experience_level,performance_label,Performance_category,Salary_band
+0,101,Nikhil,IT,50000,2,78,600000,Mid,Average,Medium,Mid
+1,102,Aman,HR,45000,1,65,540000,Junior,Average,Medium,Low
+2,103,Rohit,IT,55000,3,82,660000,Mid,Excellent,High,Mid
+3,104,Sahil,Finance,60000,4,90,720000,Senior,Excellent,High,High
+4,105,Kunal,HR,48000,2,70,576000,Mid,Average,Medium,Low
+5,106,Ravi,IT,52000,3,88,624000,Mid,Excellent,High,Mid
